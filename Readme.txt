@@ -5,6 +5,6 @@ This repository includes scripts for the computational models and the generation
 The experimental data will be available upon request during the revision process and be publicly available after publication.
 
 
-The file PopulationCode Fig1_Fig8.ipynb has the code corresponding to the simulations on the population code shown in Fig. 1 and Fig. 8. 
+The file PopulationCode Fig4_and_Fig8.ipynb has the code corresponding to the simulations on the population code shown in Fig. 5 and Fig. 8. 
 
-The file Firing_rate Fig6_SupFig2.ipynb has the code corresponding to the simulations of single PN neurons shown in Fig. 6 and in the Sup. Fig. 2
+The file Firing_rate Fig4_SupFigS3.ipynb has the code corresponding to the simulations of single PN neurons shown in Fig. 4 and in the Sup. Fig. S3
